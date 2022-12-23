@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shuffle!</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/ShufflePerson/ShufflePerson/blob/main/resources/img/waving.gif">, I'm Shuffle!</h1>
 <h4 align="center">A self-taught Developer.
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://ShufflePerson.github.io/ShufflePerson/">
+  <img  src="https://github.com/ShufflePerson/ShufflePerson/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -18,26 +18,26 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+  <a href="github.com/ShufflePerson" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=ShufflePerson&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+  <a href="https://ShufflePerson.github.io/ShufflePerson/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FShufflePerson.github.io%2FShufflePerson%2F" height="25"
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
+  <a href="https://www.codefactor.io/repository/github/ShufflePerson/ShufflePerson/overview/main"><img align="center"
+     src="https://www.codefactor.io/repository/github/ShufflePerson/ShufflePerson/badge/main" height="25"
      alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+  <a href="github.com/ShufflePerson" target="blank"><img align="center" 
+     src="https://github.com/ShufflePerson/ShufflePerson/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
+  <a href="github.com/ShufflePerson" target="blank"><img align="center" 
+     src="https://img.shields.io/github/license/ShufflePerson/ShufflePerson?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
+  <a href="github.com/ShufflePerson"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
  </p>
@@ -54,25 +54,25 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+        <a href="https://github.com/ShufflePerson/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShufflePerson&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ShufflePerson :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <a href="https://github.com/ShufflePerson/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShufflePerson&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ShufflePerson :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShufflePerson&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ShufflePerson :: Top Langs by commit" />
           </a>
         </p>
 </details>
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/ShufflePerson/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShufflePerson&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShufflePerson&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
@@ -86,7 +86,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ShufflePerson&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
   </details>
