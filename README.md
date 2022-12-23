@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/ShufflePerson/ShufflePerson/blob/main/resources/img/waving.gif">, I'm Shuffle!</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shuffle!</h1>
 <h4 align="center">A self-taught Developer.
 </div>
 
@@ -26,13 +26,6 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://www.codefactor.io/repository/github/ShufflePerson/ShufflePerson/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/ShufflePerson/ShufflePerson/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/ShufflePerson" target="blank"><img align="center" 
-     src="https://github.com/ShufflePerson/ShufflePerson/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
  <p align="center">
   <a href="github.com/ShufflePerson" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/ShufflePerson/ShufflePerson?color=purple&style=for-the-badge" height="25"
