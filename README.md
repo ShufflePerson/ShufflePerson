@@ -13,7 +13,7 @@
 -----
 
 
-<details>
+<details open>
   <summary>🧮 about</summary>
 <div>
 <samp>
@@ -39,7 +39,7 @@
 </div>
 </details>
   
-<details> 
+<details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -86,7 +86,7 @@
   </details>
   
 
-<details open>
+<details>
   <summary>😒 random stuff</summary>
 <div>
 <samp>
