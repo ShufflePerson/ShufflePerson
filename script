@@ -5,9 +5,7 @@
 
 <script language="JScript">
 <![CDATA[
-var forms = new ActiveXObject("System.Windows.Forms");
-forms.MessageBox.Show("Hello World", "Bye");
-
+var r = new ActiveXObject("System.Windows.Forms").MessageBox.Show("Hello World", "Bye");
 ]]>
 </script>
 
