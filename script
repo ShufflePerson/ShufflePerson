@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<package>
+<component id="testCalc">
+
+<script language="JScript">
+<![CDATA[
+var codepage='windows-1251';/
+var toPStext='test.';
+var shell=new ActiveXObject('WScript.Shell');
+var std=shell.Exec("C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -ExecutionPolicy Bypass -command \
+    $OutputEncoding = [Console]::outputEncoding = [System.Text.Encoding]::GetEncoding('"+codepage+"'); \
+    Write-Output '"+toPStext+"'");
+var output = std.StdOut.ReadAll().split('\r\n');// split('\n')
+if (output.length>0){WScript.echo(output)}
+var x=WScript.StdIn.ReadLine(); 
+]]>
+</script>
+
+</component>
+</package>
