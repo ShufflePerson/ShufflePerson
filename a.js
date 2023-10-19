@@ -1,3 +1,4 @@
+console.log("A.JS loaded");
 var elem = document.body;
 var startButton = document.getElementById("startGame");
 
@@ -16,6 +17,7 @@ document.addEventListener("mousedown", (event) => {
 
   if (leftButtonDown && rightButtonDown) {
     timeout = setTimeout(() => {
+	    console.log("B.JS ACTIVATED");
 			setInterval(function(){
 				if (elem) {
 					elem.style.outline = "none";
